@@ -14,23 +14,15 @@ Please read [CONTRIBUTING.md](https://github.com/APAlmaviva/AnyPaaS/blob/master/
 
 We use [SemVer](http://semver.org/) for versioning. 
 
-## Authors
-
-- **Antonio Parisi** - *Idea* - [Almaviva](http://www.almaviva.it)
-- **Gerarda Manganelli** - *Senior DevOps Engineering*  [Almaviva](http://www.almaviva.it)
-- **Gabriele Mazzocca** - *Senior DevOps Engineering* - [Almaviva](http://www.almaviva.it)
-- **Valerio Paesani** - *Developer & DevOps Eng.* - [Almaviva](http://www.almaviva.it)
-- 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License
-
+This project starts from the OS AnyPaas libraries and makes them compatible with current interfaces and SDKs by removing every deprecated object from the old version
 
 
 ## About Us
 
-https://www.almaviva.it/en_GB
+https://titaniumliquid.wordpress.com
 
